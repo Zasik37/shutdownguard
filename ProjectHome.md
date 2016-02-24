@@ -1,0 +1,1 @@
+# **[This website has moved!](https://github.com/stefansundin/shutdownguard)** #
